@@ -1575,7 +1575,7 @@
 /fr/docs/Glossaire/Robots.txt	/fr/docs/Glossary/Robots.txt
 /fr/docs/Glossaire/Ruby	/fr/docs/Glossary/Ruby
 /fr/docs/Glossaire/Récursion	/fr/docs/Glossary/Recursion
-/fr/docs/Glossaire/Référence	/fr/docs/Glossary/Reference
+/fr/docs/Glossaire/Référence	/fr/docs/conflicting/Glossary/Object_reference
 /fr/docs/Glossaire/Référence_d_objet	/fr/docs/Glossary/Object_reference
 /fr/docs/Glossaire/SCM	/fr/docs/Glossary/SCM
 /fr/docs/Glossaire/SCTP	/fr/docs/Glossary/SCTP
@@ -1736,6 +1736,7 @@
 /fr/docs/Glossary/Modern_web_apps	/fr/docs/Glossary/Progressive_web_apps
 /fr/docs/Glossary/Node/réseau	/fr/docs/Glossary/Node/networking
 /fr/docs/Glossary/Origine	/fr/docs/Glossary/Origin
+/fr/docs/Glossary/Reference	/fr/docs/conflicting/Glossary/Object_reference
 /fr/docs/Glossary/Symbol	/fr/docs/Web/JavaScript/Reference/Global_Objects/Symbol
 /fr/docs/Glossary/Transmission_Control_Protocol_(TCP)	/fr/docs/Glossary/TCP
 /fr/docs/Glossary/XHR_(XMLHttpRequest)	/fr/docs/Glossary/XMLHttpRequest
@@ -2064,7 +2065,7 @@
 /fr/docs/IndexedDB	/fr/docs/Web/API/IndexedDB_API
 /fr/docs/IndexedDB-840092-dup	/fr/docs/Web/API/IndexedDB_API
 /fr/docs/IndexedDB/Basic_Concepts_Behind_IndexedDB	/fr/docs/Web/API/IndexedDB_API/Basic_Terminology
-/fr/docs/IndexedDB/Browser_storage_limits_and_eviction_criteria	/fr/docs/Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria
+/fr/docs/IndexedDB/Browser_storage_limits_and_eviction_criteria	/fr/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria
 /fr/docs/IndexedDB/Concepts_basiques_IndexedDB	/fr/docs/Web/API/IndexedDB_API/Basic_Terminology
 /fr/docs/IndexedDB/Using_IndexedDB	/fr/docs/Web/API/IndexedDB_API/Using_IndexedDB
 /fr/docs/Introduction_à_SVG_dans_HTML	/fr/docs/Web/SVG/Tutorial/SVG_In_HTML_Introduction
@@ -3614,7 +3615,7 @@
 /fr/docs/Web/API/API_HTML_Drag_and_Drop/Opérations_de_glissement	/fr/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations
 /fr/docs/Web/API/API_IndexedDB	/fr/docs/Web/API/IndexedDB_API
 /fr/docs/Web/API/API_IndexedDB/Basic_Concepts_Behind_IndexedDB	/fr/docs/Web/API/IndexedDB_API/Basic_Terminology
-/fr/docs/Web/API/API_IndexedDB/Browser_storage_limits_and_eviction_criteria	/fr/docs/Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria
+/fr/docs/Web/API/API_IndexedDB/Browser_storage_limits_and_eviction_criteria	/fr/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria
 /fr/docs/Web/API/API_IndexedDB/Using_IndexedDB	/fr/docs/Web/API/IndexedDB_API/Using_IndexedDB
 /fr/docs/Web/API/API_fichier_systeme	/fr/docs/Web/API/File_and_Directory_Entries_API
 /fr/docs/Web/API/AbstractWorker	/fr/docs/Web/API/Worker
@@ -3837,7 +3838,7 @@
 /fr/docs/Web/API/File/fileSize	/fr/docs/Web/API/Blob/size
 /fr/docs/Web/API/FileList/FileList	/fr/docs/Web/API/FileList
 /fr/docs/Web/API/FileReader/FileList	/fr/docs/Web/API/FileList
-/fr/docs/Web/API/FileRequest/lockedFile	/fr/docs/Web/API/IDBFileRequest/lockedFile
+/fr/docs/Web/API/FileRequest/lockedFile	/fr/docs/conflicting/Web/API/IndexedDB_API
 /fr/docs/Web/API/FormData/Utilisation_objets_FormData	/fr/docs/Web/API/FormData/Using_FormData_Objects
 /fr/docs/Web/API/GlobalEventHandlers/onabort	/fr/docs/Web/API/HTMLMediaElement/abort_event
 /fr/docs/Web/API/GlobalEventHandlers/onauxclick	/fr/docs/Web/API/Element/auxclick_event
@@ -3882,6 +3883,7 @@
 /fr/docs/Web/API/IDBDatabase/onerror	/fr/docs/Web/API/IDBTransaction/error_event
 /fr/docs/Web/API/IDBDatabase/onversionchange	/fr/docs/Web/API/IDBDatabase/versionchange_event
 /fr/docs/Web/API/IDBEnvironment/indexedDB	/fr/docs/Web/API/indexedDB
+/fr/docs/Web/API/IDBFileRequest/lockedFile	/fr/docs/conflicting/Web/API/IndexedDB_API
 /fr/docs/Web/API/IDBRequest/blocked_event	/fr/docs/Web/API/IDBOpenDBRequest/blocked_event
 /fr/docs/Web/API/IDBRequest/onerror	/fr/docs/Web/API/IDBRequest/error_event
 /fr/docs/Web/API/IDBRequest/onsuccess	/fr/docs/Web/API/IDBRequest/success_event
@@ -3889,6 +3891,7 @@
 /fr/docs/Web/API/IDBTransaction/oncomplete	/fr/docs/Web/API/IDBTransaction/complete_event
 /fr/docs/Web/API/IDBTransaction/onerror	/fr/docs/Web/API/IDBTransaction/error_event
 /fr/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB	/fr/docs/Web/API/IndexedDB_API/Basic_Terminology
+/fr/docs/Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria	/fr/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria
 /fr/docs/Web/API/KeyboardEvent/key/Key_Values	/fr/docs/Web/API/UI_Events/Keyboard_event_key_values
 /fr/docs/Web/API/LocalFileSystem	/fr/docs/Web/API/File_and_Directory_Entries_API
 /fr/docs/Web/API/Location.assign	/fr/docs/Web/API/Location/assign

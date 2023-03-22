@@ -1601,10 +1601,6 @@
     "modified": "2019-03-23T22:41:09.659Z",
     "contributors": ["xdelatour"]
   },
-  "Glossary/Reference": {
-    "modified": "2019-03-23T22:40:24.148Z",
-    "contributors": ["loella16", "xdelatour"]
-  },
   "Glossary/Reflow": {
     "modified": "2019-03-18T21:46:42.626Z",
     "contributors": ["loella16"]
@@ -10385,10 +10381,6 @@
     "modified": "2020-10-15T21:45:42.009Z",
     "contributors": ["Watilin", "SphinxKnight", "gadgino"]
   },
-  "Web/API/IDBFileRequest/lockedFile": {
-    "modified": "2019-03-18T21:38:29.049Z",
-    "contributors": ["loella16"]
-  },
   "Web/API/IDBIndex": {
     "modified": "2020-09-12T05:13:55.776Z",
     "contributors": ["Voulto", "GhislainPhu", "gadgino", "jpmedley"]
@@ -10674,10 +10666,6 @@
       "Caudralys",
       "moins52"
     ]
-  },
-  "Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria": {
-    "modified": "2019-07-09T03:14:33.430Z",
-    "contributors": ["SphinxKnight", "xavieralt", "loella16", "Billos"]
   },
   "Web/API/IndexedDB_API/Using_IndexedDB": {
     "modified": "2019-11-09T09:03:11.340Z",
@@ -11906,6 +11894,10 @@
   "Web/API/Storage_API": {
     "modified": "2020-10-15T22:17:55.127Z",
     "contributors": ["Watilin"]
+  },
+  "Web/API/Storage_API/Storage_quotas_and_eviction_criteria": {
+    "modified": "2019-07-09T03:14:33.430Z",
+    "contributors": ["SphinxKnight", "xavieralt", "loella16", "Billos"]
   },
   "Web/API/Streams_API": {
     "modified": "2020-10-15T22:14:40.364Z",
@@ -27859,5 +27851,13 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Glossary/Object_reference": {
+    "modified": "2019-03-23T22:40:24.148Z",
+    "contributors": ["loella16", "xdelatour"]
+  },
+  "conflicting/Web/API/IndexedDB_API": {
+    "modified": "2019-03-18T21:38:29.049Z",
+    "contributors": ["loella16"]
   }
 }
